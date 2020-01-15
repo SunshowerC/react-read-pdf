@@ -6,7 +6,8 @@ const config = {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
   },
   entry: {
-    index: ['babel-polyfill',
+    index: [
+      // 'babel-polyfill',
       path.resolve(__dirname, '../../src/index.tsx')
     ]
   },

@@ -26,3 +26,7 @@ yarn.lock
 
 
 .idea
+
+.history
+
+dist
